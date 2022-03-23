@@ -7,6 +7,8 @@
 </p>
 <img alt="finansí" src="https://imgur.com/B5JizMA.png">
 <img alt="finansí" src="https://i.imgur.com/HZiCwwN.png">
+<img alt="finansí" src="https://i.imgur.com/14YQU6p.png">
+<img alt="finansi-smartphone" src="https://i.imgur.com/oGJiO18.png">
 
 ## Sobre o projeto
 
