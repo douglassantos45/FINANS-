@@ -16,6 +16,16 @@
 
 O projeto foi baseado no 2º módulo da trilha ReactJS do Ignite. Além do que foi construído na [aula](https://github.com/matheuslanduci/aula02-trilha-react), também foi inserido um sistema de autenticação (via Context API) e também no MirageJS. Meu projeto foi modificado para aceitar o LocalStorege ou qualquer API.
 
+
+## 🚀 Technologies
+
+Meu projeto utilizou as seguintes tecnologias:
+
+- TypeScript
+- Styled-Components
+- React
+- MirageJS
+
 ## 🚀 Como executar
 
 - Clone o repositório
